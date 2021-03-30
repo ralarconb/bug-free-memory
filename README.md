@@ -1,5 +1,5 @@
 # bug-free-memory
-- Nodejs, Mongodb and Docker integration example.
+- Nodejs, MongoDB and Docker integration example.
 # Notes
-- Connect node to mongo
+- Connect Nodejs to MongoDB
   - https://youtu.be/qj2oDkvc4dQ?t=971
