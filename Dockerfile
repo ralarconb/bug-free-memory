@@ -1,4 +1,3 @@
-#FROM node:13-alpine
 FROM node
 
 RUN mkdir -p /home/app

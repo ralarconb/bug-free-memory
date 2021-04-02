@@ -61,6 +61,7 @@ vi .env
 docker build -t bug-free-memory:1.0 .
 docker run -d -p3000:3000 bug-free-memory:1.0
 ```
+- Open the url http://localhost:3000/
 # Notes
 - Run and test the app.
 ```sh
