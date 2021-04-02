@@ -48,10 +48,11 @@ npm run devStart
 DATABASE_URL=mongodb://192.168.1.101/mydb
 ```
 - Open the url http://localhost:3000/
-# Containerize the app
+# Setup
 - Clone the app
 ```sh
 git clone https://github.com/ralarconb/bug-free-memory.git
+cd bug-free-memory
 ```
 # Notes
 - Run and test the app.
