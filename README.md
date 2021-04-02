@@ -1,6 +1,6 @@
 # bug-free-memory
 - Nodejs, MongoDB and Docker integration example.
-# Notes
+# Build the app
 - Initialize the project with defaults set to yes.
 - Install packages.
 - Install development only packages.
