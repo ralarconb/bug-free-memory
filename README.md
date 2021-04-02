@@ -53,11 +53,13 @@ DATABASE_URL=mongodb://192.168.1.101/mydb
 - Go into the project directory
 - Create the config file
 - Build the image
+- Run the container
 ```sh
 git clone https://github.com/ralarconb/bug-free-memory.git
 cd bug-free-memory
 vi .env
 docker build -t bug-free-memory:1.0 .
+docker run -d -p3000:3000 bug-free-memory:1.0
 ```
 # Notes
 - Run and test the app.
