@@ -50,9 +50,14 @@ DATABASE_URL=mongodb://192.168.1.101/mydb
 - Open the url http://localhost:3000/
 # Setup
 - Clone the app
+- Go into the project directory
+- Create the config file
+- Build the image
 ```sh
 git clone https://github.com/ralarconb/bug-free-memory.git
 cd bug-free-memory
+vi .env
+docker build -t bug-free-memory:1.0 .
 ```
 # Notes
 - Run and test the app.
