@@ -16,4 +16,4 @@ ENV PORT=3000
 EXPOSE 3000
 
 # no need for /home/app/server.js because of WORKDIR
-CMD ["npm", "devStart"]
+CMD ["npm", "start"]
