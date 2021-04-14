@@ -1,6 +1,6 @@
 # bug-free-memory
 - This project is a Nodejs, MongoDB and Docker integration example.
-- https://youtu.be/4XS0RVaKvsw
+- Look the video here https://youtu.be/4XS0RVaKvsw
 # Config images
 - Pull mongodb
 - Pull mongo express
